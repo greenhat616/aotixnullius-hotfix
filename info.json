@@ -4,7 +4,7 @@
 	"title": "✔️无主之地特调翻译（热修复版）",
 	"author": "aotix",
 	"homepage": "https://mods.factorio.com/user/asfoitio",
-	"description": "[color=green]Chinese translation of Nullius. (Hotfix fork)[/color]\n本模组是「无主之地特调翻译 / aotixnullius」0.5.0 的非官方热修复版，仅修复了 locale/zh-CN/nullius_2.0.8.cfg 中 nullius-pump-1/2/3 重复键导致模组无法加载的问题，其余内容与原版完全一致。请禁用原版 aotixnullius 后再启用本模组。\n本模组仅包含「无主之地 / Nullius」及其附属模组「无主之磷 / Lambent Nil」「无主之镍 / Tricky Old Nick」「装箱按钮 / Boxing Button」的中文特调翻译，并补译了「Nullius Lore-Accurate Visual Tweaks / nullius-visual-tweaks」的全部文本，其余模组请使用「中文特调翻译」，相信特调风味！\n为避免词条覆盖，[font=default-large-bold][color=green]未启用「无主之地」时不建议打开。[/color][/font]",
+	"description": "[color=green]Chinese translation of Nullius. (Hotfix fork)[/color]\n本模组是「无主之地特调翻译 / aotixnullius」0.5.0 的非官方热修复版，仅修复了 locale/zh-CN/nullius_2.0.10.cfg 中 nullius-pump-1/2/3 重复键导致模组无法加载的问题，其余内容与原版完全一致。请禁用原版 aotixnullius 后再启用本模组。\n本模组仅包含「无主之地 / Nullius」及其附属模组「无主之磷 / Lambent Nil」「无主之镍 / Tricky Old Nick」「装箱按钮 / Boxing Button」的中文特调翻译，并补译了「Nullius Lore-Accurate Visual Tweaks / nullius-visual-tweaks」的全部文本，其余模组请使用「中文特调翻译」，相信特调风味！\n为避免词条覆盖，[font=default-large-bold][color=green]未启用「无主之地」时不建议打开。[/color][/font]",
 	"factorio_version":"2.0",
 	"dependencies":  [
 		"? aotixzhcn >= 3.25.3",
